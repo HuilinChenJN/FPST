@@ -62,7 +62,7 @@ python main.py -m GenerativeAlignment -d Tiktok --mask_weight_f 1e-3 --mask_weig
 python main.py -m GenerativeAlignment -d Tiktok --mask_weight_f 1e-3 --mask_weight_g 1e-2 --missing_rate 0.9 -c 2 
 ```
 
-# Performance Result
+# Performance Results
 
 | Datasets | Baby Recall@20 | Baby NDCG@20 | Baby Recall@50 | Baby NDCG@50 | Clothing Recall@20 | Clothing NDCG@20 | Clothing Recall@50 | Clothing NDCG@50 | Tiktok Recall@20 | Tiktok NDCG@20 | Tiktok Recall@50 | Tiktok NDCG@50 |
 |----------|----------------|---------------|----------------|---------------|-------------------|------------------|-------------------|-----------------|-----------------|----------------|-----------------|----------------|
